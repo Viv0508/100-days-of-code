@@ -21,6 +21,7 @@ Return the least number of moves required to reach the square n2. If it is not p
 
 Example 1:
 
+![image](https://github.com/Viv0508/100-days-of-code/assets/95094911/53c416e1-1407-476a-bbca-b1e00b328ac1)
 
 Input: board = [[-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1],[-1,35,-1,-1,13,-1],[-1,-1,-1,-1,-1,-1],[-1,15,-1,-1,-1,-1]]
 
